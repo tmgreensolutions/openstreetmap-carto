@@ -1,6 +1,7 @@
 .thumb.png
 layers/
 data/
+pgdata/
 tmp/
 *.xml
 *.osm.pbf
